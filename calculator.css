@@ -1,10 +1,17 @@
+h1{
+    color: rgb(201, 69, 69);
+    font-size: 3rem;
+    font-family: serif;
+    text-align: center;
+    margin-top: 5rem;
+}
 table{
     width: 20rem;
     height: 20rem;
     table-layout: fixed;
     text-align: center;
     margin: auto;
-    margin-top: 5rem;
+    /* margin-top: 5rem; */
 }
 table,tr,td{
     border:2px solid rgb(226, 215, 215);
